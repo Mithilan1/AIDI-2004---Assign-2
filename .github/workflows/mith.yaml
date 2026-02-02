@@ -25,7 +25,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run assignment file
-        run: python "C:\Users\JT\Desktop\AIDI 2004\Assignment 2\MithAssignment2.py"
+        run: python MithAssignment2.py
          
 
 
