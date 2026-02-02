@@ -27,6 +27,3 @@ jobs:
       - name: Run assignment file
         run: python MithAssignment2.py
 
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
